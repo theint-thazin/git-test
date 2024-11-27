@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="_レイヤー_2" data-name="レイヤー 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46.03 16.49">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #6fc9f3;
+        font-family: Courier-BoldOblique, Courier;
+        font-size: 9.44px;
+        font-style: oblique;
+      }
+
+      .cls-1, .cls-2 {
+        font-weight: 700;
+      }
+
+      .cls-3 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3, .cls-4 {
+        fill: #231815;
+      }
+
+      .cls-5, .cls-6 {
+        fill: #e4007f;
+      }
+
+      .cls-2 {
+        font-family: DINCondensed-Bold, 'DIN Condensed';
+        font-size: 3.87px;
+      }
+
+      .cls-6 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-7 {
+        fill: #fff;
+        stroke: #231815;
+        stroke-miterlimit: 10;
+        stroke-width: .2px;
+      }
+
+      .cls-8 {
+        letter-spacing: -.1em;
+      }
+
+      .cls-9 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-10 {
+        letter-spacing: -.08em;
+      }
+
+      .cls-11 {
+        letter-spacing: -.14em;
+      }
+
+      .cls-12 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-13 {
+        letter-spacing: -.04em;
+      }
+    </style>
+  </defs>
+  <g id="_レイヤー_" data-name="&amp;lt;レイヤー&amp;gt;">
+    <polygon class="cls-4" points="41.6 14.09 0 14.06 4.46 .02 46.03 0 41.6 14.09"/>
+    <g>
+      <rect class="cls-7" x="5.42" y="11.41" width="30.68" height="4.82" rx="2.41" ry="2.41"/>
+      <text class="cls-2" transform="translate(7.71 15.28) scale(1.12 1)"><tspan class="cls-5" x="0" y="0">T</tspan><tspan class="cls-4" x="1.28" y="0">HEINT </tspan><tspan class="cls-5" x="8.87" y="0">T</tspan><tspan class="cls-4" x="10.16" y="0">HA</tspan><tspan class="cls-5" x="13.38" y="0">Z</tspan><tspan class="cls-4" x="14.67" y="0">IN </tspan><tspan class="cls-6" x="17.89" y="0">L</tspan><tspan class="cls-3" x="19.04" y="0">W</tspan><tspan class="cls-4" x="21.27" y="0">IN</tspan></text>
+    </g>
+  </g>
+  <g id="_レイヤー_1-2" data-name="レイヤー 1">
+    <text class="cls-1" transform="translate(4.64 9.8)"><tspan class="cls-8" x="0" y="0">&lt;</tspan><tspan class="cls-11" x="4.72" y="0">/</tspan><tspan class="cls-10" x="9.06" y="0">t</tspan><tspan class="cls-13" x="13.97" y="0">t</tspan><tspan class="cls-9" x="19.26" y="0">z</tspan><tspan class="cls-12" x="24.16" y="0">l</tspan><tspan x="29.64" y="0">&gt;</tspan></text>
+  </g>
+</svg>
