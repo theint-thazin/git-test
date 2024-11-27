@@ -1,0 +1,112 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background: #fc8eac;
+}
+i.size {
+    font-size: 100px;
+}
+h1 {
+    color: white;
+    font-size: 80px;
+    font-family: 'Brush Script MT', cursive;
+    font-style: oblique;
+    text-align: center;
+    padding-top: 40px;
+    opacity: 0;
+    transform: translateY(30px);
+    animation: moveup 1s linear forwards;
+    animation-delay: 0.5s;
+}
+@media screen and (max-width:1200px){
+    h1 {
+        font-size: 70px;
+        text-align: center;
+    }
+}
+@media screen and (max-width:640px){
+    h1 {
+        font-size: 60px;
+    }
+}
+
+@keyframes moveup {
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+#main {
+    display: flex;
+    justify-content: center;
+}
+.text {
+    display: none;
+    position: relative;
+    left: 145px;
+    top: 62px;
+    color: #fff;
+    font-size: 18px;
+    font-family: 'Times New Roman', Times, serifs;
+    text-align: center;
+    background-color: #fb1f7e;
+    border: 1px solid #fff;
+    box-shadow: 0px 2px 10px #fff;
+    border-radius: 10px;
+    padding: 5px;
+    z-index: 1;
+}  
+a:hover + .text{
+    display: block;
+    
+}
+#container img {
+    width: 130px;
+    height: auto;
+    position: absolute;
+    left: 555px;
+    opacity: 0;
+    transform: translateY(30px);
+    animation: moveup 2s linear forwards;
+    animation-delay: 1s;
+}
+@media screen and (max-width:640px){
+    #container img {
+        width: 100px;
+        height: auto;
+        margin-left: -300px;
+        margin-top: 80px;
+    }
+}
+@keyframes moveup {
+    100%{
+        opacity: 1;
+        transform: translateY(0px);
+    }
+}
+#main-img img {
+    width: 250px;
+    height: auto;
+    margin-right: 80px;
+    position: relative;
+    animation: mymove 5s infinite;
+    animation-timing-function: linear;
+}
+
+@media screen and (max-width:640px){
+    #main-img img {
+        width: 150px;
+        height: auto;
+        margin-left: 10px;
+        margin-top: 80px;
+        animation: mymove 2s infinite;
+    }
+}
+
+@keyframes mymove {
+    from {left: 500px;}
+    to {left: 200px;}
+  }
+
